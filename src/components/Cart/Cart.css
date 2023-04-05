@@ -4,3 +4,16 @@
     position: sticky;
     top: 0;
 }
+.btn-clear{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    color: white;
+    height: 56px;
+    font-size: 18px;
+    align-items: center;
+    margin:  10px auto;
+    background-color: #FF3030;
+    border-radius: 4px;
+
+}
